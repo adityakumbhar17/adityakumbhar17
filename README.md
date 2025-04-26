@@ -12,6 +12,7 @@ I'm **Aditya S Kumbhar**, an Embedded Systems enthusiast crafting intelligent so
 ## Get in Touch 📬
 - 📧 Email: adikumbhar6173@gmail.com
 
->> "Empowering the future, one innovative line of code at a time." 🚀
-    Let's innovate together and create impact! 🔥🤝
+> "Empowering the future, one innovative line of code at a time." 🚀
+
+Let's innovate together and create impact! 🔥🤝
 
