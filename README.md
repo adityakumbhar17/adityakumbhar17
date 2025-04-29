@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar02saurabh&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumbhar17" /> </p>
+
 # Let's Build Something Amazing Together! 🚀🤝
 
 I'm **Aditya S Kumbhar**, an Embedded Systems enthusiast crafting intelligent solutions with microcontrollers, communication protocols, Linux internals, and C programming! 🛠️💻 Driven by curiosity, fueled by innovation.
