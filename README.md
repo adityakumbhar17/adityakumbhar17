@@ -13,6 +13,7 @@ I'm **Aditya S Kumbhar**, an Embedded Systems enthusiast crafting intelligent so
 
 ## Get in Touch 📬
 - 📧 Email: adikumbhar6173@gmail.com
+-  💼 LinkedIn: [linkedin.com/in/adityaskumbhar](https://www.linkedin.com/in/adityaskumbhar)
 
 > "Empowering the future, one innovative line of code at a time." 🚀
 
